@@ -1,4 +1,8 @@
 {
-  "nintendo-switch": "https://netflix.com",
-  "headphones": "https://amazon.com"
+  "nintendo-switch": {
+    "link": "https://netflix.com"
+  },
+  "headphones": {
+    "link": "https://amazon.com"
+  }
 }
