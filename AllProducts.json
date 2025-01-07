@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Weights",
+    "description": "High-quality weights for strength training.",
+    "link": "product_weights.html",
+    "image_suffix": "weights-dOq8XrVJ9Qcga0Oz.jpg"
+  },
+  {
+    "title": "Switch",
+    "description": "The latest gaming console for entertainment.",
+    "link": "product_switch.html",
+    "image_suffix": "switch-Aq2q019PnzcDy9eQ.jpg"
+  },
+  {
+    "title": "Shoes",
+    "description": "Comfortable and stylish running shoes.",
+    "link": "product_shoes.html",
+    "image_suffix": "shoes-AoPqEnXxBkIbpGZa.jpg"
+	},
+  {
+    "title": "PS5",
+    "description": "Next-gen gaming console with stunning graphics.",
+    "link": "product_ps5.html",
+    "image_suffix": "ps5-d957EWLjR4S6Q82J.jpg"
+  },
+  {
+    "title": "PC",
+    "description": "High-performance gaming PC.",
+    "link": "product_pc.html",
+    "image_suffix": "pc-AE0aq5bje6F8Be52.jpg"
+  }
+]
