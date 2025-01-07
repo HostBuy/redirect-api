@@ -2,31 +2,36 @@
   {
     "title": "Weights",
     "description": "High-quality weights for strength training.",
-    "link": "product_weights.html",
-    "image": "https://assets.zyrosite.com/Aq2q12ygPgHpQjNW/weights-dOq8XrVJ9Qcga0Oz.jpg"
+    "image": "https://assets.zyrosite.com/Aq2q12ygPgHpQjNW/weights-dOq8XrVJ9Qcga0Oz.jpg",
+    "price": "$25.99",
+    "link": "product_weights.html"
   },
   {
     "title": "Switch",
     "description": "The latest gaming console for entertainment.",
-    "link": "product_switch.html",
-    "image": "https://assets.zyrosite.com/Aq2q12ygPgHpQjNW/switch-Aq2q019PnzcDy9eQ.jpg"
+    "image": "https://assets.zyrosite.com/Aq2q12ygPgHpQjNW/switch-Aq2q019PnzcDy9eQ.jpg",
+    "price": "$299.99",
+    "link": "product_switch.html"
   },
   {
     "title": "Shoes",
     "description": "Comfortable and stylish running shoes.",
-    "link": "product_shoes.html",
-    "image": "https://assets.zyrosite.com/Aq2q12ygPgHpQjNW/shoes-AoPqEnXxBkIbpGZa.jpg"
+    "image": "https://assets.zyrosite.com/Aq2q12ygPgHpQjNW/shoes-AoPqEnXxBkIbpGZa.jpg",
+    "price": "$59.99",
+    "link": "product_shoes.html"
   },
   {
     "title": "PS5",
     "description": "Next-gen gaming console with stunning graphics.",
-    "link": "product_ps5.html",
-    "image": "https://assets.zyrosite.com/Aq2q12ygPgHpQjNW/ps5-d957EWLjR4S6Q82J.jpg"
+    "image": "https://assets.zyrosite.com/Aq2q12ygPgHpQjNW/ps5-d957EWLjR4S6Q82J.jpg",
+    "price": "$499.99",
+    "link": "product_ps5.html"
   },
   {
     "title": "PC",
     "description": "High-performance gaming PC.",
-    "link": "product_pc.html",
-    "image": "https://assets.zyrosite.com/Aq2q12ygPgHpQjNW/pc-AE0aq5bje6F8Be52.jpg"
+    "image": "https://assets.zyrosite.com/Aq2q12ygPgHpQjNW/pc-AE0aq5bje6F8Be52.jpg",
+    "price": "$899.99",
+    "link": "product_pc.html"
   }
 ]
