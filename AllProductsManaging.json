@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Weights",
+    "description": "High-quality weights for strength training.",
+    "image": "https://assets.zyrosite.com/Aq2q12ygPgHpQjNW/weights-dOq8XrVJ9Qcga0Oz.jpg",
+    "price": "$25.99",
+    "link": "product_weights.html",
+    "placement": 1,
+    "category": "Fitness",
+    "tags": ["gym", "weights", "exercise"]
+  },
+  {
+    "title": "Switch",
+    "description": "The latest gaming console for entertainment.",
+    "image": "https://assets.zyrosite.com/Aq2q12ygPgHpQjNW/switch-Aq2q019PnzcDy9eQ.jpg",
+    "price": "$299.99",
+    "link": "product_switch.html",
+    "placement": 2,
+    "category": "Gaming",
+    "tags": ["console", "entertainment", "gaming"]
+  },
+  {
+    "title": "Shoes",
+    "description": "Comfortable and stylish running shoes.",
+    "image": "https://assets.zyrosite.com/Aq2q12ygPgHpQjNW/shoes-AoPqEnXxBkIbpGZa.jpg",
+    "price": "$59.99",
+    "link": "product_shoes.html",
+    "placement": 3,
+    "category": "Footwear",
+    "tags": ["shoes", "running", "fitness"]
+  },
+  {
+    "title": "PS5",
+    "description": "Next-gen gaming console with stunning graphics.",
+    "image": "https://assets.zyrosite.com/Aq2q12ygPgHpQjNW/ps5-d957EWLjR4S6Q82J.jpg",
+    "price": "$499.99",
+    "link": "product_ps5.html",
+    "placement": 4,
+    "category": "Gaming",
+    "tags": ["console", "PS5", "graphics"]
+  },
+  {
+    "title": "PC",
+    "description": "High-performance gaming PC.",
+    "image": "https://assets.zyrosite.com/Aq2q12ygPgHpQjNW/pc-AE0aq5bje6F8Be52.jpg",
+    "price": "$899.99",
+    "link": "product_pc.html",
+    "placement": 5,
+    "category": "Computers",
+    "tags": ["gaming", "PC", "high-performance"]
+  },
+  {
+    "title": "iPhone",
+    "description": "Latest Apple smartphone with advanced features.",
+    "image": "https://assets.zyrosite.com/Aq2q12ygPgHpQjNW/iphone-AMqlXV065wUwQ22P.jpg",
+    "price": "$999.99",
+    "link": "product_iphone.html",
+    "placement": 6,
+    "category": "Electronics",
+    "tags": ["smartphone", "Apple", "iPhone"]
+  },
+  {
+    "title": "Headphones",
+    "description": "Noise-cancelling headphones for immersive sound.",
+    "image": "https://assets.zyrosite.com/Aq2q12ygPgHpQjNW/headphones-YBgeoL6ODZu0orJQ.jpg",
+    "price": "$149.99",
+    "link": "product_headphones.html",
+    "placement": 7,
+    "category": "Audio",
+    "tags": ["headphones", "audio", "sound"]
+  },
+  {
+    "title": "Coffee Machine",
+    "description": "Brew perfect coffee every time.",
+    "image": "https://assets.zyrosite.com/Aq2q12ygPgHpQjNW/coffee-machine-AVL1DW2onauDPZMW.jpg",
+    "price": "$89.99",
+    "link": "product_coffee_machine.html",
+    "placement": 8,
+    "category": "Appliances",
+    "tags": ["coffee", "kitchen", "appliance"]
+  },
+  {
+    "title": "Books",
+    "description": "A variety of books to expand your knowledge.",
+    "image": "https://assets.zyrosite.com/Aq2q12ygPgHpQjNW/books-YZ9xnW3opau2vX8r.jpg",
+    "price": "$12.99",
+    "link": "product_books.html",
+    "placement": 9,
+    "category": "Books",
+    "tags": ["books", "reading", "knowledge"]
+  },
+  {
+    "title": "Barbecue",
+    "description": "Portable barbecue for outdoor cooking.",
+    "image": "https://assets.zyrosite.com/Aq2q12ygPgHpQjNW/barbecue-AoPqEnXoaXH7X70e.jpg",
+    "price": "$74.99",
+    "link": "product_barbecue.html",
+    "placement": 10,
+    "category": "Outdoor",
+    "tags": ["barbecue", "grill", "outdoor"]
+  }
+]
