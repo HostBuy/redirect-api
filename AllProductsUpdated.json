@@ -16,7 +16,7 @@
     "description": "The latest gaming console for entertainment.",
     "image": "https://assets.zyrosite.com/Aq2q12ygPgHpQjNW/switch-Aq2q019PnzcDy9eQ.jpg",
     "price": "$299.99",
-    "pageURL": "netflix.com",
+    "pageURL": "https://netflix.com",
     "rating": 4.5,
     "popularity": 90,
     "ctaText": "Order Today!",
